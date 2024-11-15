@@ -1,6 +1,5 @@
-# myapp
-
-A new Flutter project.
+#Nama : I Putu Arya Krisnadi Karang (220040236)
+![ss project](https://github.com/user-attachments/assets/4290c93f-0b24-4d07-aa35-44a842265b19)
 
 ## Getting Started
 
